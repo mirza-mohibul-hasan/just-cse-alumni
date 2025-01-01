@@ -32,11 +32,11 @@ This repository serves as a centralized place to track and celebrate the achieve
 
 ## 📚 Session-Wise Alumni Information
 
-### Session 1 (Year Range)
+### Session:2007-08
 
 | Name              | Current Role               | Company/Organization  | LinkedIn Profile                          |
 |-------------------|----------------------------|-----------------------|-------------------------------------------|
-| John Doe          | Software Engineer         | Google                | [LinkedIn](https://linkedin.com/in/johndoe) |
+| Gazi Monjurul Hassan          | Senior Software Engineer         | Field Nation                | [LinkedIn](https://www.linkedin.com/in/gazi-monjurul-hassan/) |
 | Jane Smith        | Data Scientist            | Meta                  | [LinkedIn](https://linkedin.com/in/janesmith) |
 
 ---
